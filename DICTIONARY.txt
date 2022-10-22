@@ -1,4 +1,3 @@
-<pre>
 Oerlang Tutorial/Dictionary
 
 table of contents:
@@ -56,4 +55,3 @@ table of contents:
 > EXAMPLES <
 	dad yo whe				did you know;
 	tat jarehn dur			that is going to take years;
-</pre>
