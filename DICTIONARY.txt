@@ -1,3 +1,4 @@
+<pre>
 Oerlang Tutorial/Dictionary
 
 table of contents:
@@ -19,39 +20,40 @@ table of contents:
 	dag			day; [dit dag] this day;
 	dan			then;
 	dat			the;
-	dier		animal;
-	ding		thing; the thing; that thing;
+	dier			animal;
+	ding			thing; the thing; that thing;
 	dit			this;
 	doe			do;
 	dur			take(s) (as in "that is going to take forever");
 	eet			eat;
 	ete			food;
-	galdor		magic;
-	gewele		amazing;
+	galdor			magic;
+	gewele			amazing;
 	hed			it; person; he; she;
-	ijse		cold; ice; cool (as in cold);
-	jaar 		year;
-	janue		month;
-	janues		months; long;
-	jarehn		years; forever;
-	kind		child; son; daughter;
-	koel		cool (as in "you are cool");
+	ijse			cold; ice; cool (as in cold);
+	jaar 			year;
+	janue			month;
+	janues			months; long;
+	jarehn			years; forever;
+	kind			child; son; daughter;
+	koel			cool (as in "you are cool");
 	me			me;
-	mein		my;
-	muziek		music;
-	omdat		because;
+	mein			my;
+	muziek			music;
+	omdat			because;
 	pau			fruit;
-	popo		poop; stinky;
-	sohn		sun; bright; hot;
+	popo			poop; stinky;
+	sohn			sun; bright; hot;
 	tat			that; those;
-	vogehl		bird;
+	vogehl			bird;
 	wat			what;
-	welkom		welcome; hello;
+	welkom			welcome; hello;
 	whe			know;
 	yo			you;
-	zeker		sure;
+	zeker			sure;
 	zit			sit; sitting;
 
 > EXAMPLES <
 	dad yo whe				did you know;
 	tat jarehn dur			that is going to take years;
+</pre>
