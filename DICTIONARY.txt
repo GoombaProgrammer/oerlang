@@ -36,7 +36,7 @@ table of contents:
 	jarehn			years; forever;
 	kind			child; son; daughter;
 	koel			cool (as in "you are cool");
-	me			me;
+	me			me; I;
 	mein			my;
 	muziek			music;
 	omdat			because;
