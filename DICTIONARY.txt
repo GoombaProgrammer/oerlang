@@ -51,6 +51,7 @@ table of contents:
 	yo			you;
 	zeker			sure;
 	zit			sit; sitting;
+	loek			fun;
 
 > EXAMPLES <
 	dad yo whe				did you know;
