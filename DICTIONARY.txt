@@ -1,15 +1,5 @@
-Oerlang Tutorial/Dictionary
+Oerlang Dictionary
 
-table of contents:
-	1. RULES OF OERLANG
-	2. WORDS
-	3. EXAMPLES
-
-
-> RULES OF OERLANG <
-	Pronounce like dutch
-	Do not pronounce the H
-	
 > WORDS <
 
 	a			is;
@@ -52,7 +42,3 @@ table of contents:
 	zeker			sure;
 	zit			sit; sitting;
 	loek			fun;
-
-> EXAMPLES <
-	dad yo whe				did you know;
-	tat jarehn dur			that is going to take years;
