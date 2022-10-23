@@ -26,13 +26,17 @@ Oerlang Dictionary
 	jarehn			years; forever;
 	kind			child; son; daughter;
 	koel			cool (as in "you are cool");
+	loek			fun;
+	manteh			uncle; aunt;
 	me			me; I;
 	mein			my;
 	muziek			music;
+	naahm			name; the name;
 	omdat			because;
 	pau			fruit;
 	popo			poop; stinky;
 	sohn			sun; bright; hot;
+	springe			jump; jumping;
 	tat			that; those;
 	vogehl			bird;
 	wat			what;
@@ -41,4 +45,3 @@ Oerlang Dictionary
 	yo			you;
 	zeker			sure;
 	zit			sit; sitting;
-	loek			fun;
